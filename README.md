@@ -10,7 +10,4 @@
 
 > *`Anomaly` file contains same as normal but with `parameter anomalies`*
 
-> Question: I already have executed first model and output is in `EPA_trace_df` while I want to implement parameters Anomaly detection for all log keys instead only one.
-please ask me anytime I am waiting you!
-m.shoaib_ali@outlook.com
 
